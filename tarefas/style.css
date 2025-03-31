@@ -2,12 +2,3 @@
     text-decoration: line-through; /*serve para riscas as letras */
 }
 
-.tabela{
-    text-align: center;
-    display: block;
-}
-
-li hover{
-    background-color: #f0f0f0;
-    pointer-events: stroke;
-}
